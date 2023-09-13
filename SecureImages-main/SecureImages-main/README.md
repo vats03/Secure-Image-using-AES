@@ -8,7 +8,7 @@ This is a Python project that demonstrates how to encrypt and decrypt image file
 <li>Clone this repository:
 <pre>
 <code>
-git clone git@github.com:leonTech254/SecureImages.git
+git clone [https://github.com/vats03/Secure-Image-using-AES]
 </code>
 </pre>
 </li>
